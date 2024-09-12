@@ -17,6 +17,7 @@ const Header = () => {
                  ${isActive ? " font-extrabold opacity-100 ":"opacity-40"}`
              } 
               to={'/'}>Home</a>
+              
               </button>
           </div>
           <div className=" border-none   hover:shadow-gray-900 rounded-[2px]">

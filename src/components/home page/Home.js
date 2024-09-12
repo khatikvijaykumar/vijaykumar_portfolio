@@ -23,7 +23,7 @@ const Home = () => {
                 </div>
           </div>
           <div className=' mainbox  ' >
-            <img className='img' src="/images/homepageimage.jpg" alt="img" />
+            <img className='img' src="homepageimage.jpg" alt="img" />
           </div>
         </div> 
     </>
