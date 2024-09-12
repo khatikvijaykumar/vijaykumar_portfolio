@@ -1,0 +1,67 @@
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .Fbstart{
+         flex-direction: column-reverse;
+         width: 100%;
+         
+    }
+    .Fbstartz{
+        flex-direction: column; 
+        width: 100%; 
+   }
+    .Fbtitle{
+        font-size: 5vw;
+    }
+    .Fbtxt{
+     font-size: 2vw;
+    }
+    .boxmain{
+        max-width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* .boxmainz{
+        max-width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    } */
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .Fbstart{
+        width: 100%;
+    }
+    .Fbtitle{
+     font-size: 4vw;
+    }
+    .boxmain{
+        max-width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .Fbstart{
+         width: 100%;
+    }
+    .Fbtitle{
+     font-size: 50px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+ .Fbstart{
+     width: 100%;
+
+    }
+
+}
+
