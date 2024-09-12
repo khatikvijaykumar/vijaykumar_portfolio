@@ -6,7 +6,7 @@ const Backend = () => {
       <div className='Fbstart m-[5px]  flex flex-row  text-sky-900 '>
       <div className='boxmain  ' >
                    <div className=' mt-[60px] rounded shadow-md w-[250px] h-[350px]'>
-                        <img src="../images/backphoto.avif" className='mt-[50px]' alt="" />
+                        <img src="backphoto.avif" className='mt-[50px]' alt="" />
                    </div>
                    <div className='m-[10px] flex flex-row'>
                    <p className='Fbtxt font-bold'>Whatsapp | Chat App |</p>

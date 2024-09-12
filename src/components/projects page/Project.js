@@ -6,7 +6,7 @@ const Project = () => {
        <div className=' pt-[200px] pb-[100px] text-sky-900 '>
          <div className='Pchange Pbox flex justify-evenly'>
             <div className='rounded-[5px] shadow shadow-lg'>
-               <img className=' h-[250px] w-[350px]' src="../images/laravelchatapp.png" alt="projectImage" />
+               <img className=' h-[250px] w-[350px]' src="laravelchatapp.png" alt="projectImage" />
             </div>
             <div className=''>
                  <h1 className='Ptitle font-bold text-[40px]'>Laravel using Project</h1>
@@ -29,7 +29,7 @@ const Project = () => {
                  </p>
              </div>
              <div className='addP rounded-[5px] shadow shadow-lg'>
-                <img className=' w-[230px] h-[350px] p-1' src="../images/whoapp.png" alt="projectImage" />
+                <img className=' w-[230px] h-[350px] p-1' src="hoapp.png" alt="projectImage" />
              </div>
          </div>
        </div>

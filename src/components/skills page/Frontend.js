@@ -22,7 +22,7 @@ const Frontend = () => {
           </div>
           <div className='boxmain ' >
                    <div className=' border mt-[60px] rounded shadow-md w-[250px] h-[350px]'>
-                       <img src="../images/frontphoto.svg" className='mt-[100px]' alt="" />
+                       <img src="frontphoto.svg" className='mt-[100px]' alt="" />
                    </div>
                    <div className='m-[10px] flex flex-row'>
                     <p className='Fbtxt font-bold'>Amazon | Youtube |</p>
