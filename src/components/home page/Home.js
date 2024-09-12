@@ -8,7 +8,7 @@ const Home = () => {
           <div className=' mainbox p-[100px] '>
                <h1 className='Hvj  font-bold font-serif '>Vijay kumar</h1>
                <p className='Htxt mt-[5px] text-[20px] font-serif'>Front-end | Back-end | Full stack | <br />
-                Android | ML | Design <br />
+                Android | ML | Design vijaykumarrrr<br />
                 </p>
                 <p className='Htxt mt-[25px] text-[20px] font-serif'>
                 I'm a full stack developer dedicated to creating seamless and efficient digital experiences. 
